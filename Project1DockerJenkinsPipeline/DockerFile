@@ -1,4 +1,4 @@
 FROM openjdk:8
 EXPOSE 8080
 ADD target/Project_1_Docker_Jenkins_Pipeline.jar Project_1_Docker_Jenkins_Pipeline.jar
-ENTRYPOINT ["java","-jar","/Project_1_Docker_Jenkins_Pipeline.jar
+ENTRYPOINT ["java","-jar","/Project_1_Docker_Jenkins_Pipeline.jar ]
